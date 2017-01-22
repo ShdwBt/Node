@@ -1,0 +1,25 @@
+Projet
+
+* Chaque utilisateur est maintenant soit:
+	- un étudiant
+	- un formateur
+	- un membre de l'administration
+
+* un étudiant peut:
+	- afficher ses informations
+	- update ses données
+	
+
+* Un formateur peut:
+	- afficher ses informations
+	- lister tous les étudiants
+	- lister les informations des etudiants
+	- modifiers ses informations
+
+* Un administrateur peut:
+	- afficher ses informations
+	- lister tous les etudiants
+	- lister tous les formateurs
+	- modifiers les informations de tous les utilisateurs (étudiant, formateur et administrateur)
+
+* Un utilisateur non inscrit & connecté ne peut que s'enregistrer et se connecter.
